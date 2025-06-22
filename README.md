@@ -3,11 +3,11 @@ Digital Twin in general is a virtual, real-time replica of a physical system/ pr
 **What is a Digital Twin in Wastewater Treatment?**
 A digital twin is a dynamic, digital representation of a physical system. In the context of wastewater treatment, it integrates:
 
-Physical assets: Pumps, tanks, aerators, sensors, etc.
-Process models: Mathematical/AI models simulating biological, chemical, and physical processes (e.g., activated sludge, clarifiers).
-Real-time data: Live feeds from plant sensors (flow, DO, pH, turbidity, etc.).
-Control logic: The plant’s operational strategies (e.g., aeration cycles, chemical dosing).
-Historical data: For calibration, validation, and scenario analysis.
+1. Physical assets: Pumps, tanks, aerators, sensors, etc.
+2. Process models: Mathematical/AI models simulating biological, chemical, and physical processes (e.g., activated sludge, clarifiers).
+3. Real-time data: Live feeds from plant sensors (flow, DO, pH, turbidity, etc.).
+4. Control logic: The plant’s operational strategies (e.g., aeration cycles, chemical dosing).
+5. Historical data: For calibration, validation, and scenario analysis.
 
 **Key Components**
 
