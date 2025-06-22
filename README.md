@@ -30,7 +30,8 @@ Scenario comparison and “what-if” analysis
 
 5. Optimization & Control
 Recommend or automatically adjust setpoints to optimize performance (energy, compliance, cost, sludge production, etc.)
-Early warning and fault detection
+
+6. Early warning and fault detection
 
 **Benefits**
 
